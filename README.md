@@ -1,4 +1,4 @@
-<img src="banner_cropped.gif" width="100%" />
+<img src="banner_800_light.gif" width="100%" />
 
 # Merna Saad
 
