@@ -1,4 +1,4 @@
-
+<img src="banner_cropped.gif" width="100%" />
 # Merna Saad
 
 **Data Scientist · AI Engineer** · she/her  
