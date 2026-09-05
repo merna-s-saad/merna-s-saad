@@ -1,4 +1,6 @@
 <img src="banner_800_light.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/merna-s-saad/contribution-robot/output/wordmark-robot.svg" width="100%" />
+
 <img src="https://raw.githubusercontent.com/merna-s-saad/contribution-robot/output/contribution-robot.svg" width="100%" />
 
 # Merna Saad
